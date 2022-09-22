@@ -1,0 +1,148 @@
+a {
+    color: #9a8c98;
+    font-family: "Inter", Helvetica, Arial, sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #22223B
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px
+}
+
+.btn {
+    background: #4A4E69;
+    background-image: -webkit-linear-gradient(top, #4A4E69, #22223B);
+    background-image: -moz-linear-gradient(top, #4A4E69, #22223B);
+    background-image: -ms-linear-gradient(top, #4A4E69, #22223B);
+    background-image: -o-linear-gradient(top, #4A4E69, #22223B);
+    background-image: linear-gradient(to bottom, #4A4E69, #22223B);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Inter", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #70798c;
+    background-image: -webkit-linear-gradient(top, #70798c, #4a4e69);
+    background-image: -moz-linear-gradient(top, #70798c, #4a4e69);
+    background-image: -ms-linear-gradient(top, #70798c, #4a4e69);
+    background-image: -o-linear-gradient(top, #70798c, #4a4e69);
+    background-image: linear-gradient(to bottom, #70798c, #4a4e69);
+    text-decoration: none;
+    color: #ffffff;
+  }
+
+.bottom-container {
+    background-color: #f2e9e4;
+    padding: 50px 0 20px 0;
+}
+
+.contact-me {
+    width: 40%;
+    margin: 40px auto 100px auto;
+}
+
+.contact-message {
+    width: 65%;
+    margin: 30px auto 40px auto
+}
+
+.copyright {
+    color: #22223B;
+    font-size: .75rem;
+    padding: 20px 0 0px 0;
+}
+
+hr {
+    border: dotted #F2E9E4;
+    border-bottom: none;
+    border-width: 8px;
+    width: 4%;
+    margin: 100px auto
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+}
+
+h2 {
+    font-weight: normal;
+    font-family: "Inter", Helvetica, Arial, sans-serif;
+    font-size: 200%;
+    padding-bottom: 10px
+}
+
+h3 {
+    color: #847577;
+}
+
+.intro {
+    background-color: #f2e9e4;
+    position: relative;
+    padding-top: 100px;
+    font-family: "Inter", Helvetica, Arial, sans-serif;
+    color: #22223B;
+}
+
+p {
+    line-height: 2;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile {
+    width: 25%;
+    margin: 1em auto 3em auto;
+}
+
+.profile-image {
+    width: 60%;
+    margin-top: 4.5em;
+}
+
+.programmer {
+    font-size: 2.5rem;
+}
+
+.programming-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    margin: 100px auto;
+    line-height: 2;
+    width: 50%;
+    text-align: left;
+}
+
+.top-cloud { 
+    position: absolute;
+    top: 40px;
+    right: 400px
+}
+
+.web-development-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
